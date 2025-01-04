@@ -1,1 +1,3 @@
 /.venv
+# Ignore model and vectorizer files
+*.pkl
